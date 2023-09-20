@@ -23,8 +23,10 @@ In this project we are demonstrating the prototype of the Smart Street Light wit
 
 ### Working Cases
 <li>Case 1: When there is daylight and a vehicle passes by</li>
-
 In this case although the IR sensor detects the object in the vicinity, since there is enough light intensity falling on the LDR, the LED does not turn ON.
+
+<img alt="image" src= "https://drive.google.com/file/d/18wSaQ8zCFPJsrjoXYgXGx608MwezCMEB/view?usp=sharing">
+
 <li>Case2: When it is dark and no vehicle passes by</li>
 In this case although it is dark, since no vehicle is passing by, The LED will not turn on in order to reduce power consumption.
 Case3: When it is dark and a vehicle passes by
