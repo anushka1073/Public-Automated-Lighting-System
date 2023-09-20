@@ -30,10 +30,12 @@ In this case although the IR sensor detects the object in the vicinity, since th
 <li>Case2: When it is dark and no vehicle passes by</li>
 In this case although it is dark, since no vehicle is passing by, The LED will not turn on in order to reduce power consumption.<br>
 
-<img alt="image" width=500 src= "">
+<img alt="image" width=500 src= "https://github.com/anushka1073/Public-Automated-Lighting-System/blob/main/images/Case2.jpeg?raw=true">
 
 Case3: When it is dark and a vehicle passes by
 <li>In this final case, since it is both dark and an object is being detected, the led will turn on thus working as an intelligent streetlight</li><br>
+
+<img alt="image" width=500 src= "https://github.com/anushka1073/Public-Automated-Lighting-System/blob/main/images/Case3.jpeg?raw=true">
 
 Finally, we have uploaded our LDR and IR data to ThingSpeak to analyse the operation of the sensor to monitor it over the internet
 
