@@ -39,6 +39,9 @@ Case3: When it is dark and a vehicle passes by
 
 Finally, we have uploaded our LDR and IR data to ThingSpeak to analyse the operation of the sensor to monitor it over the internet
 
+<img alt="image" width=900 src= "https://github.com/anushka1073/Public-Automated-Lighting-System/blob/main/images/thingspeak.png?raw=true">
+
+
 ### Future Enhancements
 <li>	Currently when it is dark but no vehicle is detected, the LED is not turned on but we aim to keep the light on at all times at 40% efficiency in the dark and increase the efficiency to 100% when vehicles pass by so that streets remain lit in the dark even for pedestrians and small entities which may or may not be detected by the IR sensor</li>
 <li> Change the power source to Solar Panels for a greener alternative</li>
