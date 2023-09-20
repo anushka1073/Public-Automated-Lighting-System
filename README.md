@@ -23,12 +23,15 @@ In this project we are demonstrating the prototype of the Smart Street Light wit
 
 ### Working Cases
 <li>Case 1: When there is daylight and a vehicle passes by</li>
-In this case although the IR sensor detects the object in the vicinity, since there is enough light intensity falling on the LDR, the LED does not turn ON.
+In this case although the IR sensor detects the object in the vicinity, since there is enough light intensity falling on the LDR, the LED does not turn ON.<br>
 
-<img alt="image" src= "https://drive.google.com/file/d/18wSaQ8zCFPJsrjoXYgXGx608MwezCMEB/view?usp=sharing">
+<img alt="image" width=500 src= "https://github.com/anushka1073/Public-Automated-Lighting-System/blob/main/images/Case1.jpeg?raw=true">
 
 <li>Case2: When it is dark and no vehicle passes by</li>
-In this case although it is dark, since no vehicle is passing by, The LED will not turn on in order to reduce power consumption.
+In this case although it is dark, since no vehicle is passing by, The LED will not turn on in order to reduce power consumption.<br>
+
+<img alt="image" width=500 src= "">
+
 Case3: When it is dark and a vehicle passes by
 <li>In this final case, since it is both dark and an object is being detected, the led will turn on thus working as an intelligent streetlight</li><br>
 
